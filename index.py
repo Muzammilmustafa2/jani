@@ -1,2 +1,3 @@
-x="my name is muzammil"
-print(x)
+x=10
+y=20
+print(x+y)
